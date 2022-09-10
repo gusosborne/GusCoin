@@ -1,0 +1,15 @@
+{
+  "721": {
+    "4d03b06a7de362d815439f0a06bf2e69c1c0818722efc5d6ea570b29": {
+      "GUS": {
+      "name": "Gus",
+      "image": "https://raw.githubusercontent.com/gusosborne/cnode/main/ASTCH.png"
+      }
+    },
+    "copyright": "GUS I/O; all rights reserved",
+    "publisher": [
+      "gus"
+    ],
+    "version": 1
+  }
+}
